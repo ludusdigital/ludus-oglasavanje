@@ -12,7 +12,7 @@ GA4 je besplatan alat za web analitiku od Google-a. Daje ti kompletnu sliku o to
 ### 1.2 Postavljanje GA4 — korak po korak
 
 **Korak 1: Kreiranje GA4 property-ja**
-1. Idi na analytics.google.com
+1. Idi na [analytics.google.com](https://analytics.google.com)
 2. Klikni "Admin" (donji levi ugao)
 3. Klikni "Create Property"
 4. Unesi:
@@ -148,7 +148,7 @@ utm_term:     ključna reč (samo za search)
 
 Koristi Google-ov UTM builder da ne praviš greške:
 
-URL: ga-dev-tools.google/campaign-url-builder/
+URL: [ga-dev-tools.google/campaign-url-builder/](https://ga-dev-tools.google/campaign-url-builder/)
 
 Ili napravi spreadsheet sa svim linkovima:
 

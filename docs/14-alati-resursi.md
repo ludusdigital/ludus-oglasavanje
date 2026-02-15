@@ -7,17 +7,17 @@ description: Kompletna lista alata za SaaS oglasavanje - Google alati, Meta alat
 
 | Alat | URL | Namena |
 |------|-----|--------|
-| **Google Ads** | ads.google.com | Kreiranje i upravljanje Google oglasima |
-| **Google Analytics 4** | analytics.google.com | Web analitika — prati saobraćaj, ponašanje, konverzije |
-| **Google Tag Manager** | tagmanager.google.com | Centralizovano upravljanje svim tagovima (pikselima, skriptama) |
-| **Google Search Console** | search.google.com/search-console | SEO praćenje — pozicije, indeksiranost, tehničke greške |
-| **Google Keyword Planner** | ads.google.com (Tools > Keyword Planner) | Keyword research — obim pretrage, konkurencija, predlozi |
-| **Google PageSpeed Insights** | pagespeed.web.dev | Testiranje brzine sajta i Core Web Vitals |
-| **Google Looker Studio** | lookerstudio.google.com | Besplatan dashboarding alat — vizualizacija podataka |
-| **Google Ads Transparency Center** | adstransparency.google.com | Vidi oglase konkurencije na Google-u |
-| **Google Trends** | trends.google.com | Trend pretrage kroz vreme — sezonalnost, popularnost |
-| **Google Mobile-Friendly Test** | search.google.com/test/mobile-friendly | Proveri mobilnu prilagođenost sajta |
-| **Rich Results Test** | search.google.com/test/rich-results | Testiranje schema markup-a |
+| **Google Ads** | [ads.google.com](https://ads.google.com) | Kreiranje i upravljanje Google oglasima |
+| **Google Analytics 4** | [analytics.google.com](https://analytics.google.com) | Web analitika — prati saobraćaj, ponašanje, konverzije |
+| **Google Tag Manager** | [tagmanager.google.com](https://tagmanager.google.com) | Centralizovano upravljanje svim tagovima (pikselima, skriptama) |
+| **Google Search Console** | [search.google.com/search-console](https://search.google.com/search-console) | SEO praćenje — pozicije, indeksiranost, tehničke greške |
+| **Google Keyword Planner** | [ads.google.com](https://ads.google.com) (Tools > Keyword Planner) | Keyword research — obim pretrage, konkurencija, predlozi |
+| **Google PageSpeed Insights** | [pagespeed.web.dev](https://pagespeed.web.dev) | Testiranje brzine sajta i Core Web Vitals |
+| **Google Looker Studio** | [lookerstudio.google.com](https://lookerstudio.google.com) | Besplatan dashboarding alat — vizualizacija podataka |
+| **Google Ads Transparency Center** | [adstransparency.google.com](https://adstransparency.google.com) | Vidi oglase konkurencije na Google-u |
+| **Google Trends** | [trends.google.com](https://trends.google.com) | Trend pretrage kroz vreme — sezonalnost, popularnost |
+| **Google Mobile-Friendly Test** | [search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly) | Proveri mobilnu prilagođenost sajta |
+| **Rich Results Test** | [search.google.com/test/rich-results](https://search.google.com/test/rich-results) | Testiranje schema markup-a |
 
 ---
 
@@ -25,12 +25,12 @@ description: Kompletna lista alata za SaaS oglasavanje - Google alati, Meta alat
 
 | Alat | URL | Namena |
 |------|-----|--------|
-| **Meta Business Suite** | business.facebook.com | Upravljanje FB stranicom, IG nalogom, objavama |
-| **Meta Ads Manager** | facebook.com/adsmanager | Kreiranje i upravljanje FB/IG oglasima |
-| **Meta Events Manager** | facebook.com/events_manager | Praćenje pixel-a, konverzija, event-ova |
+| **Meta Business Suite** | [business.facebook.com](https://business.facebook.com) | Upravljanje FB stranicom, IG nalogom, objavama |
+| **Meta Ads Manager** | [facebook.com/adsmanager](https://facebook.com/adsmanager) | Kreiranje i upravljanje FB/IG oglasima |
+| **Meta Events Manager** | [facebook.com/events_manager](https://facebook.com/events_manager) | Praćenje pixel-a, konverzija, event-ova |
 | **Meta Pixel Helper** | Chrome extension | Testiranje Meta Pixel-a na sajtu |
-| **Facebook Ad Library** | facebook.com/ads/library | Vidi SVE aktivne oglase bilo kog brenda na Facebooku |
-| **Meta Creative Hub** | facebook.com/ads/creativehub | Kreiranje i preview mock-up oglasa |
+| **Facebook Ad Library** | [facebook.com/ads/library](https://facebook.com/ads/library) | Vidi SVE aktivne oglase bilo kog brenda na Facebooku |
+| **Meta Creative Hub** | [facebook.com/ads/creativehub](https://facebook.com/ads/creativehub) | Kreiranje i preview mock-up oglasa |
 
 ---
 
@@ -52,10 +52,10 @@ description: Kompletna lista alata za SaaS oglasavanje - Google alati, Meta alat
 
 | Alat | URL | Namena |
 |------|-----|--------|
-| **Ubersuggest** | neilpatel.com/ubersuggest | Keyword research (ograničeni besplatni plan) |
-| **AnswerThePublic** | answerthepublic.com | Pitanja koja ljudi postavljaju (ograničeno besplatno) |
-| **Google Autocomplete** | google.com | Predlozi pretrage — besplatni keyword ideas |
-| **Also Asked** | alsoasked.com | "People Also Ask" pitanja |
+| **Ubersuggest** | [neilpatel.com/ubersuggest](https://neilpatel.com/ubersuggest) | Keyword research (ograničeni besplatni plan) |
+| **AnswerThePublic** | [answerthepublic.com](https://answerthepublic.com) | Pitanja koja ljudi postavljaju (ograničeno besplatno) |
+| **Google Autocomplete** | [google.com](https://google.com) | Predlozi pretrage — besplatni keyword ideas |
+| **Also Asked** | [alsoasked.com](https://alsoasked.com) | "People Also Ask" pitanja |
 | **Check My Links** | Chrome extension | Pronalazi broken linkove na stranici |
 | **Detailed SEO Extension** | Chrome extension | Vidi title, meta, heading-e na bilo kojoj stranici |
 | **Yoast SEO** | WP plugin | WordPress SEO plugin — on-page optimizacija |
@@ -73,7 +73,7 @@ description: Kompletna lista alata za SaaS oglasavanje - Google alati, Meta alat
 | **Adobe Creative Suite** | od 20 USD/mes per app | Photoshop, Illustrator — profesionalni dizajn |
 | **Remove.bg** | Besplatan (ograničeno) | Uklanjanje pozadine sa slika |
 | **TinyPNG** | Besplatan | Kompresija slika bez gubitka kvaliteta |
-| **Squoosh** | squoosh.app (besplatan) | Google-ov alat za kompresiju i konverziju slika (WebP, AVIF) |
+| **Squoosh** | [squoosh.app](https://squoosh.app) (besplatan) | Google-ov alat za kompresiju i konverziju slika (WebP, AVIF) |
 
 ### Video
 
@@ -174,17 +174,17 @@ description: Kompletna lista alata za SaaS oglasavanje - Google alati, Meta alat
 
 | Platforma | URL | Napomena |
 |-----------|-----|---------|
-| **Product Hunt** | producthunt.com | Lansiranje proizvoda, community feedback |
-| **G2** | g2.com | Business software reviews — bitan za B2B |
-| **Capterra** | capterra.com | Software directory — jak backlink |
-| **GetApp** | getapp.com | Software comparison |
-| **AlternativeTo** | alternativeto.net | Rangira se za "[proizvod] alternativa" |
-| **Crunchbase** | crunchbase.com | Startup directory |
-| **SaaSHub** | saashub.com | SaaS-specifičan direktorijum |
-| **AppSumo** | appsumo.com | Lifetime deals — može doneti mnogo korisnika |
-| **SourceForge** | sourceforge.net | Software directory — jak domen |
-| **BetaList** | betalist.com | Za lansiranje beta verzije |
-| **SaaSWorthy** | saasworthy.com | SaaS reviews i poređenja |
+| **Product Hunt** | [producthunt.com](https://producthunt.com) | Lansiranje proizvoda, community feedback |
+| **G2** | [g2.com](https://g2.com) | Business software reviews — bitan za B2B |
+| **Capterra** | [capterra.com](https://capterra.com) | Software directory — jak backlink |
+| **GetApp** | [getapp.com](https://getapp.com) | Software comparison |
+| **AlternativeTo** | [alternativeto.net](https://alternativeto.net) | Rangira se za "[proizvod] alternativa" |
+| **Crunchbase** | [crunchbase.com](https://crunchbase.com) | Startup directory |
+| **SaaSHub** | [saashub.com](https://saashub.com) | SaaS-specifičan direktorijum |
+| **AppSumo** | [appsumo.com](https://appsumo.com) | Lifetime deals — može doneti mnogo korisnika |
+| **SourceForge** | [sourceforge.net](https://sourceforge.net) | Software directory — jak domen |
+| **BetaList** | [betalist.com](https://betalist.com) | Za lansiranje beta verzije |
+| **SaaSWorthy** | [saasworthy.com](https://saasworthy.com) | SaaS reviews i poređenja |
 
 ---
 
@@ -194,14 +194,14 @@ description: Kompletna lista alata za SaaS oglasavanje - Google alati, Meta alat
 
 | Resurs | URL | Tema |
 |--------|-----|------|
-| **Ahrefs Blog** | ahrefs.com/blog | SEO edukacija — najbolji SEO blog |
-| **Backlinko** | backlinko.com | SEO strategije — Brian Dean |
-| **Search Engine Land** | searchengineland.com | SEO i PPC vesti |
-| **Jon Loomer** | jonloomer.com | Facebook Ads napredni tutorijali |
-| **Andrew Chen** | andrewchen.com | Growth strategije za startupe |
-| **Demand Curve** | demandcurve.com | Growth marketing za startupe |
-| **Lenny's Newsletter** | lennysnewsletter.com | Product i growth za SaaS |
-| **SaaStr** | saastr.com | Sve o SaaS biznisu |
+| **Ahrefs Blog** | [ahrefs.com/blog](https://ahrefs.com/blog) | SEO edukacija — najbolji SEO blog |
+| **Backlinko** | [backlinko.com](https://backlinko.com) | SEO strategije — Brian Dean |
+| **Search Engine Land** | [searchengineland.com](https://searchengineland.com) | SEO i PPC vesti |
+| **Jon Loomer** | [jonloomer.com](https://jonloomer.com) | Facebook Ads napredni tutorijali |
+| **Andrew Chen** | [andrewchen.com](https://andrewchen.com) | Growth strategije za startupe |
+| **Demand Curve** | [demandcurve.com](https://demandcurve.com) | Growth marketing za startupe |
+| **Lenny's Newsletter** | [lennysnewsletter.com](https://lennysnewsletter.com) | Product i growth za SaaS |
+| **SaaStr** | [saastr.com](https://saastr.com) | Sve o SaaS biznisu |
 
 ### YouTube kanali
 
@@ -217,12 +217,12 @@ description: Kompletna lista alata za SaaS oglasavanje - Google alati, Meta alat
 
 | Kurs | Platforma | Cena |
 |------|----------|------|
-| Google Ads Certification | skillshop.withgoogle.com | Besplatan |
-| Meta Blueprint Certification | facebook.com/business/learn | Besplatan |
-| Google Analytics Certification | skillshop.withgoogle.com | Besplatan |
-| HubSpot Academy | academy.hubspot.com | Besplatan |
-| SEMrush Academy | semrush.com/academy | Besplatan |
-| CXL Institute | cxl.com | Plaćen (napredan) |
+| Google Ads Certification | [skillshop.withgoogle.com](https://skillshop.withgoogle.com) | Besplatan |
+| Meta Blueprint Certification | [facebook.com/business/learn](https://facebook.com/business/learn) | Besplatan |
+| Google Analytics Certification | [skillshop.withgoogle.com](https://skillshop.withgoogle.com) | Besplatan |
+| HubSpot Academy | [academy.hubspot.com](https://academy.hubspot.com) | Besplatan |
+| SEMrush Academy | [semrush.com/academy](https://semrush.com/academy) | Besplatan |
+| CXL Institute | [cxl.com](https://cxl.com) | Plaćen (napredan) |
 
 ---
 

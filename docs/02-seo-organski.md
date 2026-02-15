@@ -81,14 +81,14 @@ Keyword research je temelj celokupnog SEO-a. Pre nego što napišeš bilo šta, 
 
 | Alat | URL | Šta nudi |
 |------|-----|----------|
-| **Google Keyword Planner** | ads.google.com/intl/en/home/tools/keyword-planner/ | Obim pretrage, konkurencija, predlozi ključnih reči. Besplatan unutar Google Ads naloga |
-| **Google Search Console** | search.google.com/search-console | Vidiš za koje ključne reči se tvoj sajt već rangira, koliko klikova dobijaš |
-| **Google Autocomplete** | google.com | Počni da kucaš upit i vidi predloge — to su stvarne pretrage ljudi |
-| **Google "People Also Ask"** | google.com | Kutija sa pitanjima koja se pojavljuje u rezultatima pretrage |
-| **Google Related Searches** | google.com | Na dnu stranice rezultata — povezane pretrage |
-| **AnswerThePublic** | answerthepublic.com | Vizualizacija pitanja koja ljudi postavljaju |
-| **Ubersuggest** | neilpatel.com/ubersuggest | Besplatan sa ograničenjima — obim, difficulty, predlozi |
-| **Google Trends** | trends.google.com | Trend pretrage kroz vreme — korisno za sezonalnost |
+| **Google Keyword Planner** | [ads.google.com/intl/en/home/tools/keyword-planner/](https://ads.google.com/intl/en/home/tools/keyword-planner/) | Obim pretrage, konkurencija, predlozi ključnih reči. Besplatan unutar Google Ads naloga |
+| **Google Search Console** | [search.google.com/search-console](https://search.google.com/search-console) | Vidiš za koje ključne reči se tvoj sajt već rangira, koliko klikova dobijaš |
+| **Google Autocomplete** | [google.com](https://google.com) | Počni da kucaš upit i vidi predloge — to su stvarne pretrage ljudi |
+| **Google "People Also Ask"** | [google.com](https://google.com) | Kutija sa pitanjima koja se pojavljuje u rezultatima pretrage |
+| **Google Related Searches** | [google.com](https://google.com) | Na dnu stranice rezultata — povezane pretrage |
+| **AnswerThePublic** | [answerthepublic.com](https://answerthepublic.com) | Vizualizacija pitanja koja ljudi postavljaju |
+| **Ubersuggest** | [neilpatel.com/ubersuggest](https://neilpatel.com/ubersuggest) | Besplatan sa ograničenjima — obim, difficulty, predlozi |
+| **Google Trends** | [trends.google.com](https://trends.google.com) | Trend pretrage kroz vreme — korisno za sezonalnost |
 
 **Plaćeni alati (preporuka za ozbiljan SEO):**
 
@@ -325,9 +325,9 @@ Tehnički SEO obezbeđuje da Google može da pronađe, pročita i indeksira tvoj
 Google-ov faktor rangiranja. Sporiji sajtovi imaju veći bounce rate i slabije rangiranje.
 
 **Alati za testiranje:**
-- Google PageSpeed Insights: pagespeed.web.dev
-- GTmetrix: gtmetrix.com
-- WebPageTest: webpagetest.org
+- Google PageSpeed Insights: [pagespeed.web.dev](https://pagespeed.web.dev)
+- GTmetrix: [gtmetrix.com](https://gtmetrix.com)
+- WebPageTest: [webpagetest.org](https://webpagetest.org)
 
 **Ciljevi:**
 - LCP (Largest Contentful Paint) < 2.5 sekundi
@@ -358,7 +358,7 @@ Google koristi **mobile-first indexing** — mobilna verzija tvog sajta je prima
 - Tekst čitljiv bez zumiranja
 - Dugmad i linkovi dovoljno veliki za dodir prstom (minimum 48x48px)
 - Nema horizontalnog skrolovanja
-- Testiraj na: search.google.com/test/mobile-friendly
+- Testiraj na: [search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
 
 ### 4.3 HTTPS
 
@@ -486,7 +486,7 @@ Schema markup pomaže Google-u da razume kontekst tvog sadržaja i može rezulti
 - U `<head>` sekciju stranice unutar `<script type="application/ld+json">` taga
 - Ili implementiraj preko Google Tag Manager-a
 
-**Testiraj na:** search.google.com/test/rich-results
+**Testiraj na:** [search.google.com/test/rich-results](https://search.google.com/test/rich-results)
 
 ### 4.7 Google Search Console — obavezan alat
 
@@ -494,7 +494,7 @@ Google Search Console je besplatan alat koji ti pokazuje kako Google vidi tvoj s
 
 **Postavljanje (korak po korak):**
 
-1. Idi na search.google.com/search-console
+1. Idi na [search.google.com/search-console](https://search.google.com/search-console)
 2. Klikni "Start now" i uloguj se sa Google nalogom
 3. Dodaj property — izaberi "URL prefix" i unesi URL sajta
 4. Verifikuj vlasništvo (najlakši načini):

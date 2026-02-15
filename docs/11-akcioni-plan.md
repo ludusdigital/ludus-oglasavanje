@@ -14,23 +14,23 @@ Ništa ne radi bez praćenja. Ova nedelja je posvećena tome da sve bude spremno
 ### Dan 1-2: Google alati
 
 - [ ] **Kreiraj Google Analytics 4 nalog**
-  - analytics.google.com > Create Property
+  - [analytics.google.com](https://analytics.google.com) > Create Property
   - Postavi Data Stream za tvoj sajt
   - Instaliraj GA4 tag na sajt
 
 - [ ] **Kreiraj Google Tag Manager nalog**
-  - tagmanager.google.com > Create Account > Create Container (Web)
+  - [tagmanager.google.com](https://tagmanager.google.com) > Create Account > Create Container (Web)
   - Instaliraj GTM container kod na sajt (`<head>` + `<body>`)
   - Prebaci GA4 tag u GTM (umesto direktne instalacije)
 
 - [ ] **Postavi Google Search Console**
-  - search.google.com/search-console
+  - [search.google.com/search-console](https://search.google.com/search-console)
   - Dodaj property (URL prefix)
   - Verifikuj vlasništvo (DNS ili HTML tag)
   - Postavi sitemap (tvoj-sajt.com/sitemap.xml)
 
 - [ ] **Kreiraj Google Ads nalog**
-  - ads.google.com > Switch to Expert Mode > Create without campaign
+  - [ads.google.com](https://ads.google.com) > Switch to Expert Mode > Create without campaign
   - Podesi valutu (EUR) i vremensku zonu
   - Dodaj payment metod
 
@@ -40,7 +40,7 @@ Ništa ne radi bez praćenja. Ova nedelja je posvećena tome da sve bude spremno
 ### Dan 3-4: Meta alati
 
 - [ ] **Kreiraj Meta Business Manager**
-  - business.facebook.com > Create Account
+  - [business.facebook.com](https://business.facebook.com) > Create Account
   - Dodaj Facebook stranicu
   - Dodaj Instagram nalog
 

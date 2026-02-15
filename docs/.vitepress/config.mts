@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'SEO & oglašavanje za SaaS',
-  description: 'Kompletna edukacija o SEO-u, Google Ads-u i Meta Ads-u za SaaS startup sa pretplatničkim modelom',
+  title: 'SaaS Marketing Edukacija',
+  description: 'Kompletna edukacija za SaaS marketing — SEO, oglašavanje, PLG, brending, GTM strategija, analitika i AI automatizacija',
   lang: 'sr-Latn',
 
   head: [
@@ -46,7 +46,7 @@ export default defineConfig({
       {
         text: 'Praktično',
         items: [
-          { text: 'Akcioni plan (30 dana)', link: '/11-akcioni-plan' },
+          { text: 'Akcioni plan (90 dana)', link: '/11-akcioni-plan' },
           { text: 'Checkliste', link: '/12-checkliste' },
           { text: 'Alati i resursi', link: '/14-alati-resursi' },
         ]
@@ -154,7 +154,7 @@ export default defineConfig({
         text: 'Akcioni planovi',
         collapsed: false,
         items: [
-          { text: 'Prvih 30 dana', link: '/11-akcioni-plan' },
+          { text: 'Prvih 90 dana', link: '/11-akcioni-plan' },
           { text: 'Nedeljni / mesečni / kvartalni', link: '/12-checkliste' },
           { text: 'Česte greške', link: '/13-greske' },
           { text: 'Alati i resursi', link: '/14-alati-resursi' },

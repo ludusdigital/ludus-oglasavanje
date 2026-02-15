@@ -1,18 +1,18 @@
 ---
 layout: home
-title: SEO & oglašavanje za SaaS
+title: SaaS marketing edukacija
 titleTemplate: Kompletna edukacija
 
 hero:
-  name: "SEO/LEO & oglašavanje"
-  text: "za SaaS startupe"
-  tagline: Sveobuhvatni vodič za SEO, LEO, Google Ads i Meta Ads prilagođen za SaaS platforme sa pretplatničkim modelom.
+  name: "SaaS marketing"
+  text: "kompletna edukacija"
+  tagline: Od SEO i oglašavanja do PLG, brending, GTM strategije, analitike i AI automatizacije - sve što ti treba za rast SaaS platforme na jednom mestu.
   actions:
     - theme: brand
       text: Počni sa osnovama
       link: /01-osnove
     - theme: alt
-      text: Akcioni plan (30 dana)
+      text: Akcioni plan (90 dana)
       link: /11-akcioni-plan
 
 features:
@@ -86,14 +86,14 @@ features:
     link: /27-agile-marketing
   - icon: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 17 2 2 4-4"/><path d="m3 7 2 2 4-4"/><path d="M13 6h8"/><path d="M13 12h8"/><path d="M13 18h8"/></svg>'
     title: Akcioni planovi
-    details: Nedelja-po-nedelja plan za prvih 30 dana, nedeljne/mesečne/kvartalne checkliste.
+    details: Plan po nedeljama za prvih 90 dana — infrastruktura, brending, PLG, lifecycle, CRO i skaliranje.
     link: /11-akcioni-plan
 ---
 
 ## Kako koristiti ovaj vodič
 
 1. **Potpuni početnik?** Počni od [Osnova oglašavanja za SaaS](/01-osnove) i čitaj redom.
-2. **Želiš da pokreneš oglase odmah?** Idi na [Akcioni plan prvih 30 dana](/11-akcioni-plan).
+2. **Želiš da pokreneš oglase odmah?** Idi na [Akcioni plan prvih 90 dana](/11-akcioni-plan).
 3. **Imaš konkretno pitanje?** Koristi pretragu (ikonica lupe gore desno) ili sidebar navigaciju.
 4. **Za redovno održavanje:** Koristi [Nedeljne/mesečne checkliste](/12-checkliste).
 

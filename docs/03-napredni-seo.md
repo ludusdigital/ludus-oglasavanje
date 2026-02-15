@@ -530,6 +530,155 @@ Canonical tag govori Google-u koja stranica je "originalna" verzija kada isti il
 
 ---
 
+## 7. Product-Led SEO
+
+Product-Led SEO je strategija gde sam proizvod postaje SEO asset — generiše organski saobraćaj, backlink-ove i korisnike bez potrebe za klasičnim content marketingom.
+
+### 7.1 Besplatni alati kao lead magneti (Linkable Assets)
+
+Kreiraj besplatne alate koji rešavaju konkretan problem tvoje ciljne grupe:
+
+| Tip alata | Primer | SEO benefit |
+|-----------|--------|-------------|
+| **Kalkulator** | ROI kalkulator, pricing kalkulator | Privlači backlink-ove, visok engagement |
+| **Generator** | Ime firme generator, color palette generator | Long-tail keywords, viralno deljenje |
+| **Checker/Audit** | SEO audit tool, website speed checker | Ponovljeno korišćenje, bookmark-ovanje |
+| **Template** | Email template, project plan template | Download = email capture |
+| **Converter** | File converter, unit converter | Visok volumen pretrage |
+
+**Primeri iz prakse:**
+
+```
+HubSpot: Website Grader (besplatan audit tvog sajta)
+→ Rangira se za "website grader", "site audit tool"
+→ Generiše milione leadova godišnje
+
+Ahrefs: Free Backlink Checker
+→ Rangira se za "backlink checker", "check backlinks"
+→ Privlači korisnike koji zatim upgrade-uju na plaćeni plan
+
+CoSchedule: Headline Analyzer
+→ Rangira se za "headline analyzer", "blog title analyzer"
+→ Besplatan alat koji dovodi ljude u CoSchedule ekosistem
+```
+
+**Kako implementirati:**
+
+```
+1. Identifikuj problem koji tvoja ciljna grupa gugluje
+   (keyword research: "[tvoja kategorija] calculator/checker/tool")
+2. Kreiraj minimalan besplatan alat koji rešava taj problem
+3. Optimizuj landing page za SEO (title, meta, content oko alata)
+4. Dodaj CTA za tvoj main product ("Želiš više? Probaj [Brend]")
+5. Promovišaj alat (PR, social media, guest posts → backlink-ovi)
+```
+
+### 7.2 User-Generated Content za Long-Tail Keywords
+
+Kada korisnici kreiraju sadržaj unutar tvog proizvoda, taj sadržaj može generisati organski saobraćaj.
+
+```
+PRIMERI:
+├── Notion Templates Gallery
+│   Korisnici kreiraju template-e → javni listing → Google indeksira
+│   Rangiraju se za: "project management template", "meeting notes template"
+│
+├── Figma Community
+│   Dizajneri dele fajlove → Community page → SEO saobraćaj
+│   Rangiraju se za: "dashboard UI kit", "mobile app wireframe"
+│
+├── Airtable Universe
+│   Korisnici dele baze → javni URL → Long-tail organic traffic
+│   Rangiraju se za: "CRM template", "inventory tracker"
+│
+└── Product Hunt
+    Svaki listing je UGC → indeksira se → rangira se za brand names
+```
+
+**Kako primeniti za tvoj SaaS:**
+- Omogući korisnicima da kreiraju javne profile/portfolio stranice
+- Kreiraj template/marketplace galeriju sa SEO-optimizovanim stranicama
+- Svaki template ima svoju URL sa relevantnim sadržajem
+- Korisnici prirodno linkuju na svoje javne stranice
+
+### 7.3 Template galerije i Marketplace stranice
+
+Svaki template = nova landing page = nova prilika za rangiranje.
+
+```
+URL STRUKTURA:
+/templates/                         → Hub page (svi template-i)
+/templates/marketing/               → Kategorija
+/templates/marketing/social-media/  → Podkategorija
+/templates/marketing/social-media/instagram-post-template  → Pojedinačni template
+
+SEO OPTIMIZACIJA SVAKE TEMPLATE STRANICE:
+├── Title: "[Template Name] Template — Free | [TvojBrend]"
+├── Meta: "Download our free [template] template. Customize in minutes..."
+├── H1: "[Template Name] Template"
+├── Opis šta template radi i kako ga koristiti
+├── Preview/screenshot template-a
+├── CTA: "Use this template" (zahteva signup)
+├── Related templates (internal linking)
+└── Schema markup (Product ili SoftwareApplication)
+```
+
+### 7.4 Comparison i "Alternative" stranice
+
+Ljudi aktivno pretražuju "[Competitor] alternatives" i "[Tool A] vs [Tool B]". Ove stranice hvataju korisnike u fazi evaluacije.
+
+**Tipovi stranica:**
+
+| Tip | Primer URL-a | Ciljne ključne reči |
+|-----|-------------|-------------------|
+| **vs stranice** | /compare/tvojbrend-vs-competitor | "[competitor] vs [tvojbrend]" |
+| **Alternative stranice** | /alternatives/competitor | "[competitor] alternatives" |
+| **Best of stranice** | /blog/best-project-management-tools | "best [kategorija] tools 2026" |
+| **Migration guide** | /migrate-from/competitor | "switch from [competitor]" |
+
+**Struktura "vs" stranice:**
+
+```
+H1: [TvojBrend] vs [Competitor] — Detaljna usporedba
+
+1. UVOD: Kratko o oba alata
+2. FEATURE COMPARISON TABELA (fer, ne pristrasna)
+3. PRICING COMPARISON
+4. USE CASE: Kada izabrati [TvojBrend]
+5. USE CASE: Kada izabrati [Competitor] (budi fer!)
+6. CUSTOMER QUOTES (od korisnika koji su prešli)
+7. CTA: "Probaj [TvojBrend] besplatno"
+```
+
+::: tip Budi fer u comparison stranicama
+Ako si očigledno pristrasan, korisnici to vide i gube poverenje. Priznaj gde je konkurent bolji — i istakni gde si ti bolji. Fer usporedba gradi više poverenja od agresivnog "mi smo najbolji u svemu".
+:::
+
+### 7.5 Integracije i API dokumentacija kao SEO strategija
+
+Svaka integracija = nova landing page sa SEO potencijalom.
+
+```
+PRIMER: Zapier model
+
+Zapier ima stranicu za SVAKI par integracija:
+zapier.com/apps/slack/integrations/google-sheets
+→ Rangira se za: "connect Slack to Google Sheets"
+
+KAKO PRIMENITI:
+/integrations/                    → Hub stranica (sve integracije)
+/integrations/google-ads/         → Pojedinačna integracija
+/integrations/google-ads-setup/   → Setup guide
+
+SEO BENEFIT:
+├── Svaka integracija cilja specifične long-tail ključne reči
+├── Korisnici tih alata prirodno pronalaze tvoj proizvod
+├── Setup guides privlače backlink-ove iz dokumentacije partnera
+└── API dokumentacija se rangira za developer-specific upite
+```
+
+---
+
 ## Sledeći koraci
 
 -> [04 - Google Ads osnove](/04-google-ads-osnove) — kako podesiti i pokrenuti Google oglase

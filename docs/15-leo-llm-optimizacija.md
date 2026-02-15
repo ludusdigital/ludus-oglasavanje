@@ -7,8 +7,6 @@ description: Proces optimizacije sadržaja i brenda za AI sisteme — ChatGPT, C
 
 Proces optimizacije sadržaja na sajtu za AI alate ChatGPT, Claude, Gemini, Perplexity kako bi preporučili tvoj SaaS proizvod.
 
----
-
 ## Uvod
 
 LEO (LLM Engine Optimization) je proces optimizacije tvog sadržaja i brenda tako da AI alati ChatGPT, Claude, Gemini, Perplexity i Google AI Overviews prepoznaju, razumeju i preporuče tvoj SaaS proizvod kada korisnici postavljaju pitanja.

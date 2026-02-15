@@ -3,7 +3,7 @@ title: SEO — Organski saobraćaj iz Google pretrage
 description: Kompletni vodič za SEO optimizaciju SaaS sajta - keyword research, on-page SEO, tehnički SEO, off-page SEO i content marketing strategija.
 ---
 
-# SEO - Organski saobraćaj iz Google pretrage
+# Organski saobraćaj iz Google pretrage
 
 Kompletni vodič za SEO optimizaciju SaaS sajta - keyword research, on-page SEO, tehnički SEO, off-page SEO i content marketing strategija.
 

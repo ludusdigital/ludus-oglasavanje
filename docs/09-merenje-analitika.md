@@ -343,6 +343,194 @@ NRR = (10000 + 1500 - 300 - 500) / 10000 × 100 = 107% ✅ (cilj > 100%)
 
 ---
 
+## 5. Customer segmentacija
+
+### 5.1 RFM Analiza (Recency, Frequency, Monetary)
+
+RFM segmentira korisnike na osnovu tri dimenzije ponašanja:
+
+```
+R = RECENCY: Kada je korisnik poslednji put bio aktivan?
+F = FREQUENCY: Koliko često koristi proizvod?
+M = MONETARY: Koliko plaća / koliku vrednost generiše?
+
+Svaka dimenzija se ocenjuje 1-5 (5 = najbolji)
+```
+
+**RFM Segmenti za SaaS:**
+
+| Segment | R | F | M | Opis | Akcija |
+|---------|---|---|---|------|--------|
+| **Champions** | 5 | 5 | 5 | Najaktivniji, najviše plaćaju | Referral program, case study |
+| **Loyal Users** | 4-5 | 4-5 | 3-4 | Redovni korisnici | Upsell, feature adoption |
+| **Potential Loyalists** | 4-5 | 2-3 | 2-3 | Novi ali angažovani | Onboarding nurture, tips |
+| **At Risk** | 2-3 | 3-4 | 3-4 | Bili aktivni, sad opada | Re-engagement, check-in |
+| **Hibernating** | 1-2 | 1-2 | 1-2 | Skoro neaktivni | Win-back kampanje |
+| **Lost** | 1 | 1 | 1 | Churned ili zamalo | Poslednji win-back pokušaj |
+
+### 5.2 Behavioral segmentacija
+
+Segmentacija na osnovu ponašanja u proizvodu:
+
+```
+SEGMENTI PO AKTIVNOSTI:
+├── Power Users: Koriste 80%+ feature-a, dnevno aktivni
+├── Regular Users: Koriste core feature-e, nedeljno aktivni
+├── Light Users: Koriste 1-2 feature-a, mesečno aktivni
+├── Dormant: Registrovani ali neaktivni 30+ dana
+└── Trial/Free: Još nisu platili
+
+SEGMENTI PO FAZI:
+├── New: Registrovani < 7 dana
+├── Onboarding: 7-30 dana, u procesu aktivacije
+├── Activated: Dostigli aha moment
+├── Engaged: Redovno koriste 30+ dana
+├── Expanding: Upgrade-uju, dodaju korisnike
+└── At Risk: Smanjenje aktivnosti
+```
+
+### 5.3 Predictive segmentacija
+
+Korišćenje ML modela za predviđanje budućeg ponašanja:
+
+| Prediktivni segment | Opis | Alati |
+|---------------------|------|-------|
+| **Likely to churn** | Korisnici sa visokom verovatnoćom odlaska | Amplitude Predict, custom ML |
+| **Likely to upgrade** | Korisnici koji pokazuju upgrade signale | PQL scoring, Mixpanel |
+| **High-value prospects** | Leadovi sa visokim potencijalom | HubSpot Predictive Lead Scoring |
+
+---
+
+## 6. Revenue Analytics
+
+### 6.1 MRR Breakdown Dashboard
+
+```
+MRR BREAKDOWN:
+┌────────────────────────────────────────────┐
+│ Current MRR: 50.000 EUR                    │
+│                                            │
+│ New MRR:         +8.000 EUR  (16%)         │
+│ Expansion MRR:   +3.000 EUR  (6%)          │
+│ Contraction MRR: -1.500 EUR  (-3%)         │
+│ Churned MRR:     -2.500 EUR  (-5%)         │
+│ ─────────────────────────────              │
+│ Net New MRR:     +7.000 EUR  (14%)         │
+│                                            │
+│ Previous MRR:    43.000 EUR                │
+│ MRR Growth Rate: 16.3%                     │
+└────────────────────────────────────────────┘
+```
+
+### 6.2 Expansion vs Contraction Revenue
+
+```
+EXPANSION REVENUE:
+├── Upsell: Korisnik prelazi na viši plan
+├── Cross-sell: Korisnik kupuje add-on
+├── Seat expansion: Tim dodaje nove korisnike
+└── Usage growth: Usage-based pricing raste
+
+CONTRACTION REVENUE:
+├── Downgrade: Korisnik prelazi na niži plan
+├── Seat reduction: Tim smanjuje broj korisnika
+└── Usage decrease: Smanjena potrošnja
+
+ZDRAVI INDIKATORI:
+├── Expansion > Contraction (rezultat: NRR > 100%)
+├── Expansion dolazi od 20-30% korisničke baze
+└── Contraction < 5% ukupnog MRR-a mesečno
+```
+
+### 6.3 Churn analiza po kohortama
+
+```
+COHORT CHURN TABELA:
+Prikazuje % korisnika koji su ostali aktivni po mesecu registracije
+
+         M0    M1    M2    M3    M4    M5    M6
+Jan 25   100%  72%   60%   55%   52%   50%   48%
+Feb 25   100%  75%   63%   58%   54%   52%   —
+Mar 25   100%  78%   67%   61%   —     —     —
+Apr 25   100%  80%   70%   —     —     —     —
+May 25   100%  82%   —     —     —     —     —
+
+INSIGHT:
+Kohorte se poboljšavaju (Jan: 72% M1 → May: 82% M1)
+= Onboarding optimizacije deluju!
+Najveći drop: M0→M1 (20-28% churn u prvom mesecu)
+= Fokus na prvih 30 dana korišćenja
+```
+
+### 6.4 Revenue po kanalu
+
+| Kanal | Novi MRR | CAC | LTV:CAC | Payback |
+|-------|---------|-----|---------|---------|
+| Google Ads | 3.200 EUR | 180 EUR | 5.5:1 | 4.5 mes |
+| Meta Ads | 1.800 EUR | 250 EUR | 4.0:1 | 6 mes |
+| Organic SEO | 2.000 EUR | 50 EUR | 20:1 | 1.2 mes |
+| Referral | 800 EUR | 30 EUR | 33:1 | 0.8 mes |
+| LinkedIn | 200 EUR | 350 EUR | 2.9:1 | 8.5 mes |
+
+---
+
+## 7. Marketing Mix Modeling (osnove)
+
+### 7.1 Šta je Marketing Mix Modeling (MMM)
+
+MMM je statistička analiza koja meri uticaj svakog marketing kanala na ukupne prihode — uključujući kanale koji su teški za direktnu atribuciju (brand awareness, offline, PR).
+
+```
+RAZLIKA OD ATRIBUCIJE:
+
+DIGITAL ATTRIBUTION:
+"Ovaj korisnik je kliknuo na Google Ad → signup → plaćanje"
+= Direktna, individual-level veza
+
+MARKETING MIX MODELING:
+"Kada smo povećali Google Ads spend za 20%, MRR je porastao za 8%.
+ Kada smo povećali SEO content za 30%, MRR je porastao za 12%."
+= Statistička, agregatna analiza
+```
+
+### 7.2 Kada koristiti MMM
+
+| Koristiti MMM kad... | Ne treba MMM kad... |
+|----------------------|---------------------|
+| Imaš 6+ meseci podataka | Tek si počeo sa marketingom |
+| Koristiš 3+ kanala | Imaš samo 1-2 kanala |
+| Budget > 5K EUR/mes | Budget < 1K EUR/mes |
+| Teško je atribuirati offline kanale | Sve je digital i merljivo |
+
+### 7.3 Jednostavan MMM pristup
+
+```
+KORAK 1: Prikupi mesečne podatke (12+ meseci)
+├── MRR po mesecu
+├── Spend po kanalu po mesecu
+├── Organski saobraćaj po mesecu
+├── Brand search volume po mesecu
+└── Sezonski faktori
+
+KORAK 2: Korelaciona analiza
+├── Koji kanali koreliraju sa MRR rastom?
+├── Koliko je kašnjenje (lag)? (npr. SEO ima 3-6 meseci lag)
+└── Da li postoje sinergije? (Ads + Content zajedno > odvojeno)
+
+KORAK 3: Budžet alokacija
+├── Povećaj spend na kanalima sa najboljom korelacijom
+├── Smanji spend na kanalima bez vidljivog uticaja
+└── Testiraj promene i prati rezultat
+
+ALATI:
+├── Google Sheets + Regression (besplatan, osnovan)
+├── Meridian (Google open-source MMM) — besplatan
+├── Robyn (Meta open-source MMM) — besplatan
+└── Measured, Paramark — plaćeni, enterprise
+```
+
+---
+
 ## Sledeći koraci
 
 > [10 - Legal i compliance](/10-legal-compliance) — pravila platformi, GDPR, Consent Mode

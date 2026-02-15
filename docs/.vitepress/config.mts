@@ -6,14 +6,15 @@ export default defineConfig({
   lang: 'sr-Latn',
 
   head: [
-    ['meta', { name: 'theme-color', content: '#2563eb' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+    ['meta', { name: 'theme-color', content: '#0bbc78' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:title', content: 'SEO & Oglašavanje za SaaS — Kompletna edukacija' }],
     ['meta', { name: 'og:description', content: 'Sveobuhvatni vodič za SEO, Google Ads i Meta Ads, prilagođen za SaaS platformu sa pretplatničkim modelom.' }],
   ],
 
   themeConfig: {
-    logo: undefined,
+    logo: '/favicon.png',
     siteTitle: 'SaaS oglašavanje',
 
     nav: [
@@ -22,10 +23,24 @@ export default defineConfig({
         text: 'Edukacija',
         items: [
           { text: 'Osnove', link: '/01-osnove' },
+          { text: 'SaaS biznis model i pricing', link: '/16-saas-biznis-model' },
           { text: 'SEO', link: '/02-seo-organski' },
           { text: 'LEO (LLM optimizacija)', link: '/15-leo-llm-optimizacija' },
           { text: 'Google Ads', link: '/04-google-ads-osnove' },
           { text: 'Meta Ads', link: '/06-meta-ads-osnove' },
+          { text: 'LinkedIn i B2B kanali', link: '/19-linkedin-ads-b2b' },
+          { text: 'Brending i copywriting', link: '/17-brending-copywriting' },
+        ]
+      },
+      {
+        text: 'Napredne teme',
+        items: [
+          { text: 'Product-Led Growth', link: '/20-product-led-growth' },
+          { text: 'GTM strategija', link: '/22-gtm-strategija' },
+          { text: 'CRO i eksperimentisanje', link: '/23-cro-eksperimentisanje' },
+          { text: 'MarTech i AI', link: '/24-martech-ai' },
+          { text: 'B2B vs B2C SaaS', link: '/25-b2b-b2c-saas' },
+          { text: 'Performanse i UX', link: '/26-performanse-ux' },
         ]
       },
       {
@@ -43,6 +58,7 @@ export default defineConfig({
         text: 'Osnove',
         items: [
           { text: 'Osnove oglašavanja za SaaS', link: '/01-osnove' },
+          { text: 'SaaS biznis model i pricing', link: '/16-saas-biznis-model' },
         ]
       },
       {
@@ -76,11 +92,56 @@ export default defineConfig({
         ]
       },
       {
+        text: 'LinkedIn i B2B kanali',
+        items: [
+          { text: 'LinkedIn Ads i B2B kanali', link: '/19-linkedin-ads-b2b' },
+        ]
+      },
+      {
+        text: 'Brending i sadržaj',
+        collapsed: true,
+        items: [
+          { text: 'Brand strategija i copywriting', link: '/17-brending-copywriting' },
+          { text: 'Content strategija', link: '/18-content-strategija' },
+        ]
+      },
+      {
+        text: 'Product-Led Growth',
+        collapsed: true,
+        items: [
+          { text: 'PLG za SaaS', link: '/20-product-led-growth' },
+          { text: 'Lifecycle marketing i retencija', link: '/21-lifecycle-marketing' },
+        ]
+      },
+      {
+        text: 'Strategija i lansiranje',
+        collapsed: true,
+        items: [
+          { text: 'Go-to-Market strategija', link: '/22-gtm-strategija' },
+          { text: 'B2B vs B2C SaaS', link: '/25-b2b-b2c-saas' },
+        ]
+      },
+      {
         text: 'Strategija i merenje',
         collapsed: false,
         items: [
           { text: 'Cross-channel strategija', link: '/08-cross-channel' },
           { text: 'Merenje i analitika', link: '/09-merenje-analitika' },
+          { text: 'CRO i eksperimentisanje', link: '/23-cro-eksperimentisanje' },
+        ]
+      },
+      {
+        text: 'Tehnologija i alati',
+        collapsed: true,
+        items: [
+          { text: 'MarTech stack i AI automatizacija', link: '/24-martech-ai' },
+          { text: 'Performanse, UX i pristupačnost', link: '/26-performanse-ux' },
+        ]
+      },
+      {
+        text: 'Upravljanje i procesi',
+        items: [
+          { text: 'Agile marketing', link: '/27-agile-marketing' },
         ]
       },
       {

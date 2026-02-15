@@ -1,22 +1,22 @@
 /* ===== BRAND COLORS ===== */
 :root {
-  --vp-c-brand-1: #2563eb;
-  --vp-c-brand-2: #1d4ed8;
-  --vp-c-brand-3: #1e40af;
-  --vp-c-brand-soft: rgba(37, 99, 235, 0.12);
+  --vp-c-brand-1: #0bbc78;
+  --vp-c-brand-2: #099e65;
+  --vp-c-brand-3: #078553;
+  --vp-c-brand-soft: rgba(11, 188, 120, 0.12);
 
   /* Hero gradient */
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
-  --vp-home-hero-image-background-image: linear-gradient(135deg, rgba(37, 99, 235, 0.25) 0%, rgba(124, 58, 237, 0.25) 100%);
+  --vp-home-hero-name-background: linear-gradient(135deg, #0bbc78 0%, #0891b2 100%);
+  --vp-home-hero-image-background-image: linear-gradient(135deg, rgba(11, 188, 120, 0.25) 0%, rgba(8, 145, 178, 0.25) 100%);
   --vp-home-hero-image-filter: blur(44px);
 }
 
 .dark {
-  --vp-c-brand-1: #60a5fa;
-  --vp-c-brand-2: #3b82f6;
-  --vp-c-brand-3: #2563eb;
-  --vp-c-brand-soft: rgba(96, 165, 250, 0.12);
+  --vp-c-brand-1: #34d399;
+  --vp-c-brand-2: #0bbc78;
+  --vp-c-brand-3: #099e65;
+  --vp-c-brand-soft: rgba(52, 211, 153, 0.12);
 }
 
 /* ===== HERO CENTER ===== */

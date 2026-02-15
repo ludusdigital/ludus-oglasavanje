@@ -23,7 +23,7 @@ Oglašavanje za SaaS je specifično jer:
 
 ---
 
-## SEO vs plaćeno oglašavanje — osnovna razlika
+## Osnovna razlika između SEO i plaćenog oglašavanja
 
 ### SEO (Search Engine Optimization) — organski saobraćaj
 

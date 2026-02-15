@@ -3,6 +3,10 @@ title: Legal i compliance — Pravila, GDPR, Consent Mode
 description: Pravila Google Ads i Meta Ads platformi, GDPR regulativa, Consent Mode v2 implementacija i compliance za SaaS oglasavanje.
 ---
 
+# Legal i compliance - Pravila, GDPR, Consent Mode
+
+Pravila Google Ads i Meta Ads platformi, GDPR regulativa, Consent Mode v2 implementacija i compliance za SaaS oglasavanje.
+
 ## 1. Pravila platformi
 
 ### 1.1 Google Ads politike

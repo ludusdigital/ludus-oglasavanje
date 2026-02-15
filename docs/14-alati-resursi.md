@@ -3,6 +3,12 @@ title: Alati i resursi
 description: Kompletna lista alata za SaaS oglasavanje - Google alati, Meta alati, SEO, dizajn, video, landing page, email marketing, analitika i resursi za ucenje.
 ---
 
+# Alati i resursi
+
+Kompletna lista alata za SaaS oglasavanje - Google alati, Meta alati, SEO, dizajn, video, landing page, email marketing, analitika i resursi za ucenje.
+
+---
+
 ## 1. Google alati (besplatni)
 
 | Alat | URL | Namena |

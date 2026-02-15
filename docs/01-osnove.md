@@ -3,6 +3,10 @@ title: Osnove oglašavanja za SaaS startup
 description: Uvod u oglašavanje za SaaS - ključni pojmovi, metrike, funnel, budžetiranje i strategija za početnike.
 ---
 
+# Osnove oglašavanja za SaaS startup
+
+Uvod u oglašavanje za SaaS - ključni pojmovi, metrike, funnel, budžetiranje i strategija za početnike.
+
 ## Šta je SaaS i zašto je oglašavanje drugačije?
 
 SaaS (Software as a Service) je poslovni model u kome korisnici plaćaju mesečnu ili godišnju pretplatu za korišćenje softvera. Za razliku od klasične prodaje gde se proizvod proda jednom, SaaS model zahteva:

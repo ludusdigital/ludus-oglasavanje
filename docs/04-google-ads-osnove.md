@@ -1,7 +1,11 @@
 ---
-title: Google Ads — Osnove plaćenog oglašavanja na Google-u
+title: Osnove plaćenog oglašavanja na Google-u
 description: Kompletni vodič za Google Ads - kako radi aukcija, tipovi kampanja, postavljanje naloga, praćenje konverzija, pisanje oglasa i optimizacija za SaaS.
 ---
+
+# Osnove plaćenog oglašavanja na Google-u
+
+Kompletni vodič za Google Ads - kako radi aukcija, tipovi kampanja, postavljanje naloga, praćenje konverzija, pisanje oglasa i optimizacija za SaaS.
 
 ## 1. Kako radi Google Ads
 

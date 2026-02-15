@@ -3,6 +3,12 @@ title: Česte greške i kako ih izbeći
 description: 54 najčešće greške u SaaS oglasavanju - od setup-a, strukture kampanja, kreativa, targetiranja, landing stranica, optimizacije, SEO-a do budžetiranja.
 ---
 
+# Česte greške i kako ih izbeći
+
+54 najčešće greške u SaaS oglasavanju - od setup-a, strukture kampanja, kreativa, targetiranja, landing stranica, optimizacije, SEO-a do budžetiranja.
+
+---
+
 ## 1. Greške u postavljanju (Setup)
 
 | # | Greška | Zašto je problem | Kako izbeći |

@@ -3,6 +3,10 @@ title: Akcioni plan — Prvih 30 dana
 description: Detaljan plan po danima za prvih 30 dana SaaS oglasavanja - od postavljanja infrastrukture do pokretanja i optimizacije kampanja.
 ---
 
+# Akcioni plan - Prvih 30 dana
+
+Detaljan plan po danima za prvih 30 dana SaaS oglasavanja - od postavljanja infrastrukture do pokretanja i optimizacije kampanja.
+
 Ovaj plan pretpostavlja da imaš sajt (landing stranicu) spreman za saobraćaj. Ako nemaš — to je korak nula.
 
 ---

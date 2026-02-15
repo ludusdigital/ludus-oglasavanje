@@ -3,6 +3,12 @@ title: Nedeljni, mesečni i kvartalni checklist
 description: Kompletne checkliste za redovno održavanje SaaS oglasavanja - nedeljne, mesečne, kvartalne i godišnje aktivnosti.
 ---
 
+# Nedeljni, mesečni i kvartalni checklist
+
+Kompletne checkliste za redovno održavanje SaaS oglasavanja - nedeljne, mesečne, kvartalne i godišnje aktivnosti.
+
+---
+
 ## Nedeljni checklist (30-60 minuta)
 
 Radi ovo svake nedelje, idealno ponedeljkom ujutru.

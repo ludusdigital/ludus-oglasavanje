@@ -1,7 +1,11 @@
 ---
-title: Napredni SEO strategije za SaaS
+title: SEO strategije za SaaS
 description: Programmatic SEO, topic clusters, Core Web Vitals optimizacija, rendering strategije, napredni link building i internacionalizacija za SaaS sajtove.
 ---
+
+# SEO strategije za SaaS
+
+Programmatic SEO, topic clusters, Core Web Vitals optimizacija, rendering strategije, napredni link building i internacionalizacija za SaaS sajtove.
 
 ## 1. Programmatic SEO
 

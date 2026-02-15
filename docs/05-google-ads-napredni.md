@@ -1,7 +1,11 @@
 ---
-title: Google Ads — Napredne strategije
+title: Napredne Google Ads strategije
 description: SKAG pristup, napredne bidding strategije, remarketing kampanje, Google Ads Scripts automatizacija, competitor kampanje, Performance Max i YouTube Ads za SaaS.
 ---
+
+#  Napredne Google Ads strategije
+
+SKAG pristup, napredne bidding strategije, remarketing kampanje, Google Ads Scripts automatizacija, competitor kampanje, Performance Max i YouTube Ads za SaaS.
 
 ## 1. SKAG — Single Keyword Ad Groups (precizniji pristup)
 

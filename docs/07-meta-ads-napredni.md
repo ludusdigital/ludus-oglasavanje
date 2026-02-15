@@ -3,6 +3,10 @@ title: Meta Ads — Napredne strategije
 description: CBO vs ABO, kreativna strategija i hook formule, UGC oglasi, Advantage+ kampanje, reporting i analiza, scaling strategije i napredne taktike za SaaS.
 ---
 
+# Meta Ads - Napredne strategije
+
+CBO vs ABO, kreativna strategija i hook formule, UGC oglasi, Advantage+ kampanje, reporting i analiza, scaling strategije i napredne taktike za SaaS.
+
 ## 1. CBO vs ABO — Campaign Budget Optimization vs Ad Set Budget
 
 ### 1.1 Razlika

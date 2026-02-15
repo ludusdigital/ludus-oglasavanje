@@ -3,6 +3,10 @@ title: Merenje i analitika
 description: Kompletni vodič za GA4, UTM parametre, dashboarding, KPI praćenje i napredne SaaS metrike i formule.
 ---
 
+# Merenje i analitika
+
+Kompletni vodič za GA4, UTM parametre, dashboarding, KPI praćenje i napredne SaaS metrike i formule.
+
 ## 1. Google Analytics 4 (GA4)
 
 ### 1.1 Šta je GA4 i zašto je obavezan

@@ -3,6 +3,10 @@ title: Cross-Channel strategija i atribucija
 description: Multi-touch atribucija, full-funnel strategija, post-click optimizacija i cross-channel koordinacija za SaaS oglasavanje.
 ---
 
+# Cross-Channel strategija i atribucija
+
+Multi-touch atribucija, full-funnel strategija, post-click optimizacija i cross-channel koordinacija za SaaS oglasavanje.
+
 ## 1. Multi-touch atribucija
 
 ### 1.1 Zašto je atribucija bitna

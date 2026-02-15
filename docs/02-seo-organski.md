@@ -3,6 +3,10 @@ title: SEO — Organski saobraćaj iz Google pretrage
 description: Kompletni vodič za SEO optimizaciju SaaS sajta - keyword research, on-page SEO, tehnički SEO, off-page SEO i content marketing strategija.
 ---
 
+# SEO - Organski saobraćaj iz Google pretrage
+
+Kompletni vodič za SEO optimizaciju SaaS sajta - keyword research, on-page SEO, tehnički SEO, off-page SEO i content marketing strategija.
+
 ## Uvod
 
 SEO (Search Engine Optimization) je proces optimizacije tvog sajta da bi se pojavio što više u besplatnim (organskim) rezultatima Google pretrage. Za SaaS startup, SEO je dugoročno najisplativiji kanal za akviziciju korisnika.

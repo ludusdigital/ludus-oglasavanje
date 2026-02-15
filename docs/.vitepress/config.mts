@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'SEO & Oglašavanje za SaaS',
+  title: 'SEO & oglašavanje za SaaS',
   description: 'Kompletna edukacija o SEO-u, Google Ads-u i Meta Ads-u za SaaS startup sa pretplatničkim modelom',
   lang: 'sr-Latn',
 
@@ -14,7 +14,7 @@ export default defineConfig({
 
   themeConfig: {
     logo: undefined,
-    siteTitle: 'SaaS Oglašavanje',
+    siteTitle: 'SaaS oglašavanje',
 
     nav: [
       { text: 'Početna', link: '/' },
@@ -23,6 +23,7 @@ export default defineConfig({
         items: [
           { text: 'Osnove', link: '/01-osnove' },
           { text: 'SEO', link: '/02-seo-organski' },
+          { text: 'LEO (LLM optimizacija)', link: '/15-leo-llm-optimizacija' },
           { text: 'Google Ads', link: '/04-google-ads-osnove' },
           { text: 'Meta Ads', link: '/06-meta-ads-osnove' },
         ]
@@ -48,24 +49,30 @@ export default defineConfig({
         text: 'SEO',
         collapsed: false,
         items: [
-          { text: 'SEO — Organski saobraćaj', link: '/02-seo-organski' },
-          { text: 'Napredni SEO', link: '/03-napredni-seo' },
+          { text: 'Organski saobraćaj', link: '/02-seo-organski' },
+          { text: 'SEO strategije za SaaS', link: '/03-napredni-seo' },
+        ]
+      },
+      {
+        text: 'LEO (AI optimizacija)',
+        items: [
+          { text: 'LEO za SaaS platforme', link: '/15-leo-llm-optimizacija' },
         ]
       },
       {
         text: 'Google Ads',
         collapsed: false,
         items: [
-          { text: 'Google Ads — Osnove', link: '/04-google-ads-osnove' },
-          { text: 'Google Ads — Napredni', link: '/05-google-ads-napredni' },
+          { text: 'Osnove plaćenog oglašavanja', link: '/04-google-ads-osnove' },
+          { text: 'Napredne strategije', link: '/05-google-ads-napredni' },
         ]
       },
       {
         text: 'Meta Ads (FB / IG)',
         collapsed: false,
         items: [
-          { text: 'Meta Ads — Osnove', link: '/06-meta-ads-osnove' },
-          { text: 'Meta Ads — Napredni', link: '/07-meta-ads-napredni' },
+          { text: 'Osnove FB i IG oglašavanja', link: '/06-meta-ads-osnove' },
+          { text: 'Napredne strategije', link: '/07-meta-ads-napredni' },
         ]
       },
       {
@@ -79,7 +86,7 @@ export default defineConfig({
       {
         text: 'Legal i compliance',
         items: [
-          { text: 'Legal i compliance', link: '/10-legal-compliance' },
+          { text: 'Pravila, GDPR, Consent Mode', link: '/10-legal-compliance' },
         ]
       },
       {
@@ -135,7 +142,7 @@ export default defineConfig({
 
     footer: {
       message: 'Edukativni materijal za SaaS oglašavanje',
-      copyright: '2026 Ludus Digital'
+      copyright: 'Ludus Digital 2026.'
     }
   },
 

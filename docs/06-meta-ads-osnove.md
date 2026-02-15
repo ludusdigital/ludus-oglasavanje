@@ -3,6 +3,10 @@ title: Meta Ads — Facebook i Instagram oglašavanje (Osnove)
 description: Kompletni vodič za Meta Ads - postavljanje naloga, Meta Pixel, Conversions API, targetiranje publike, kreativni materijali, budžetiranje i retargeting za SaaS.
 ---
 
+# Meta Ads - Facebook i Instagram oglašavanje (Osnove)
+
+Kompletni vodič za Meta Ads - postavljanje naloga, Meta Pixel, Conversions API, targetiranje publike, kreativni materijali, budžetiranje i retargeting za SaaS.
+
 ## 1. Razlika u odnosu na Google Ads
 
 | Karakteristika | Google Search Ads | Meta (FB/IG) Ads |

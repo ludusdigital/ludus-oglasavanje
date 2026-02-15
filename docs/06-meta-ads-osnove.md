@@ -25,7 +25,7 @@ description: Kompletni vodič za Meta Ads - postavljanje naloga, Meta Pixel, Con
 ## 2. Struktura Meta Ads naloga
 
 ```
-Meta Business Suite (business.facebook.com)
+Meta Business Suite ([business.facebook.com](https://business.facebook.com))
 │
 ├── Business Manager
 │   ├── Facebook stranica (Page)
@@ -52,7 +52,7 @@ Na Meta platformi, targeting i budget su na nivou Ad Set-a, dok je cilj na nivou
 
 ### Korak 1: Kreiraj Business Manager
 
-1. Idi na **business.facebook.com**
+1. Idi na **[business.facebook.com](https://business.facebook.com)**
 2. Klikni **"Create Account"**
 3. Unesi:
    - Naziv biznisa

@@ -59,7 +59,7 @@ U ovom primeru, ti si na prvom mestu sa najnižom ponudom jer imaš najviši Qua
 
 ### Korak 1: Kreiranje naloga
 
-1. Idi na **ads.google.com**
+1. Idi na **[ads.google.com](https://ads.google.com)**
 2. Klikni "Start now"
 3. Uloguj se sa Google nalogom (preporučujem poseban za biznis)
 4. Google će te odmah pitati da napraviš kampanju — **NE PRAVI JE ODMAH**
@@ -132,7 +132,7 @@ Za SaaS, tipične konverzije su:
 
 GTM ti omogućava da upravljaš svim tagovima (Google Ads, Meta Pixel, Analytics) sa jednog mesta, bez menjanja koda sajta.
 
-1. Kreiraj nalog na **tagmanager.google.com**
+1. Kreiraj nalog na **[tagmanager.google.com](https://tagmanager.google.com)**
 2. Kreiraj kontejner za tvoj sajt (Web)
 3. Postavi GTM kontejner kod na sajt:
 
